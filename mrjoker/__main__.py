@@ -308,7 +308,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "❮❮❮❮🤡 𝗠𝗿.𝗝𝗼𝗸𝗲𝗿 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🤡❯❯❯❯:\n".format(
+                "❮❮❮❮🤡  Help menu for *{}* module 🤡❯❯❯❯:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
