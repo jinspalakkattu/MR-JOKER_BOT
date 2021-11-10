@@ -86,7 +86,7 @@ Hi There, Wecome to the Team @anjumani_addict All In One channel for Movies, Web
 buttons = [
     [
         InlineKeyboardButton(
-            text="🤡 𝗛𝗘𝗟𝗣 🤡", callback_data="help_back"),
+            text="🤡 𝗛𝗘𝗟𝗣 🤡", callback_data="help_back")
     ],
    # [
      #   InlineKeyboardButton(
@@ -96,11 +96,11 @@ buttons = [
         InlineKeyboardButton(text="🚀 𝗜𝗡𝗙𝗢 🚀", callback_data="mrjoker_"),
         InlineKeyboardButton(
             text=" 𝗕𝗔𝗦𝗜𝗖 𝗛𝗘𝗟𝗣 👮", callback_data="mrjoker_basichelp"
-        ),
+        )
     ],
     
     [
-        InlineKeyboardButton(text="+ Add anjumani management bot to your group +", url="http://t.me/Mrjokerlk_bot?startgroup=true"),
+        InlineKeyboardButton(text="+ Add anjumani management bot to your group +", url="http://t.me/Mrjokerlk_bot?startgroup=true")
     ],
 ]
 
